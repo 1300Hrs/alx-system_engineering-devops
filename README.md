@@ -1,1 +1,2 @@
-Shell basics and bash scripting
+#!/bin/bash
+ Shell basics and bash scripting
